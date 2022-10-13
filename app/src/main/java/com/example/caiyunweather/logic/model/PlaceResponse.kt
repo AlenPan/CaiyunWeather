@@ -9,4 +9,8 @@ data class Place(
     @SerializedName("formatted_address") val address: String
 )
 
-data class Location(val lng: String, val lat: String)
+/**
+ * lat: latitude 纬度
+ * lng: longitude 经度
+ */
+data class Location(val lat: String, val lng: String)

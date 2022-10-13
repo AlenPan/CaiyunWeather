@@ -1,4 +1,4 @@
-package com.example.caiyunweather.ui.place
+package com.example.caiyunweather
 
 import android.annotation.SuppressLint
 import android.os.Bundle
